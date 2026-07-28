@@ -9,7 +9,7 @@ EV-Performance-Analysis-Dashboard
 │   ├── Georaphic Energy Insights.JPG
 │   ├── Executive Overview.JPG
 │   └── Numerical Distribution.JPG
-    └── Dashboard_Overview.JPG
+    └── Dashboard_Overview.pdf
 │
 ├── PowerBI
 │   └── EV Performance Analysis Dashboard.pbix
