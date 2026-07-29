@@ -80,8 +80,6 @@ This dashboard addresses these questions through interactive visualizations and 
 
 # 📈 Key Business Insights
 
-⚡ Key Business Insights
-
 1️⃣ Vehicle type is the biggest driver of EV efficiency
 
 Four-wheelers deliver the highest average driving range (~219 km).
