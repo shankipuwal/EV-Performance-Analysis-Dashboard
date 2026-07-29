@@ -80,12 +80,28 @@ This dashboard addresses these questions through interactive visualizations and 
 
 # 📈 Key Business Insights
 
-> Replace these placeholder points with insights verified from your dashboard.
+⚡ Key Business Insights
 
-- Charging duration varies across different vehicle types.
-- Battery health differs under varying operational conditions.
-- Weather conditions influence vehicle range utilization.
-- Geographic analysis reveals differences in energy consumption.
+1️⃣ Vehicle type is the biggest driver of EV efficiency
+
+Four-wheelers deliver the highest average driving range (~219 km).
+
+2️⃣ Battery health remains strong across the fleet
+
+The average battery health is approximately 89%, indicating healthy battery performance.
+
+3️⃣ Pune has the highest EV energy demand
+
+Regional energy consumption analysis identifies Pune as the leading city, followed by Hyderabad and Mumbai.
+
+4️⃣ Public charging dominates EV usage
+
+Nearly 68% of charging sessions occur at public charging stations.
+
+5️⃣ Charging infrastructure influences range anxiety
+
+Drivers experiencing range anxiety travel approximately 2× farther to reach a charging station, suggesting that improved charging accessibility could enhance the EV ownership experience.
+
 
 ---
 
